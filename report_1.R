@@ -3,7 +3,7 @@ UI <- function(id = pageid) {
   ns <- NS(id)
   
   tagList(
-    h1("Report 1")
+    h1("Sample Report 1")
   )
 }
 
